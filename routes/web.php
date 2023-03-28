@@ -21,6 +21,14 @@ Route::get('/', function () {
     return view('index');
 });
 
+Route::get('/index', function () {
+    return view('index');
+});
+
+Route::get('/index_two', function () {
+    return view('index_two');
+});
+
 Route::get('/dashboard', function () {
     return view('pages.dashboard');
 });
