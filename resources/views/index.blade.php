@@ -75,7 +75,7 @@
 
             <div class="container my-auto">
                 <div class="row">
-                    <div class="col-xl-4 col-lg-5 col-md-7 mx-auto" style="">
+                    <div class="col-xl-4 col-lg-5 col-md-7 mx-auto">
                         <div class="card card-plain">
                             <div class="center">
                                 <img src="../../../assets/img/logo/new/black/logo-only-trans.png" alt=""
